@@ -1,7 +1,9 @@
 # GENai2026
 
-## AI PPT
+## AI PPT簡報
 - slidepilot
+- skywork
+- Gamma
 ## GenApe 
 - GenApe 是台灣自主開發的 AI 內容生成平台，支援 AI 文字生成、圖片生成、影
 - GenApe 是一款全方位的免費AI工具平台，支援中文 AI 工具操作介面，致力於讓每位使用者都能快速上手、靈活應用。
